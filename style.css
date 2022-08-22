@@ -1,0 +1,106 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    border: 4px;
+    height: 60px;
+    width: 800px;
+    counter-reset: 80px;
+    
+
+
+}
+.nm
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(141, 170, 179);
+    color: rgb(17, 18, 19);
+    border: 6px solid rgb(102, 6, 38);
+position:relative;
+left: 290px;
+
+}
+.bb
+{
+    background-color: aquamarine;
+    color: rgb(13, 13, 14);
+position: relative;
+left: 80px;
+background: linear-gradient(rgb(175, 162, 162),pink);
+border-radius: 50px;
+height: 50px;
+width: 150px;
+
+}
+.vv
+{
+    position: relative;
+left: 50px;
+    background: linear-gradient(rgb(172,117,117),rgb(221, 178, 161));
+}
+.dd
+{
+    position: relative;
+    left: 80px;
+    background: linear-gradient(rgb(241, 184, 184),rgb(235, 179, 179));
+    border-radius: 50px;
+    height: 50px;
+    width: 150px;
+}
+.ff
+{
+position: relative;
+    left: 80px;
+    background: linear-gradient(rgb(243, 185, 185),rgb(240, 198, 198));
+    border-radius: 50px;
+    height: 50px;
+    width: 150px; 
+}
+.gg
+{
+    position: relative;
+    left: 80px;
+    background: linear-gradient(black,white);   
+}
+.hh
+{
+
+    position: relative;
+    left: 90px;
+    background: linear-gradient(black,white);
+}
+.ii
+{
+
+
+    position: relative;
+    right: 1px;
+    background: linear-gradient(rgb(172, 117, 117),rgb(102, 164, 168));
+
+
+}
+.mp4
+{
+height: 400px;
+width: 1500px;
+
+}
+.zz
+{
+    position: relative;
+    left: 300px;
+    background:linear-gradient((rgb(78, 77, 77),rgb(102, 164, 168))  );
+    color: rgb(231, 190, 102);
+    border-radius: 50px;
+    height: 50px;
+    width: 100px;
+    
+}
+.zz:hover
+{
+
+background-color: red;
+transition: 3s;
+
+}

@@ -1,0 +1,19 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    border: 4px;
+    height: 60px;
+    width: 800px;
+    background-color: rgb(236, 225, 223);
+    counter-reset: 80px;
+
+}
+.mp4
+{
+    position: relative;
+    left: 100px;
+    right: 100px;
+    top: auto;
+    nav-down: auto;
+}
